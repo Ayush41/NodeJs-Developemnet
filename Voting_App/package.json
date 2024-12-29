@@ -1,0 +1,11 @@
+{
+  "name": "voting_app",
+  "version": "1.0.0",
+  "description": "Voting application backend with nodejs & Express with some Mongodb for database with some authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Raj",
+  "license": "ISC"
+}
