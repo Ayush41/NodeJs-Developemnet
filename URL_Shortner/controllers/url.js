@@ -1,3 +1,3 @@
-async function genNewShortURL(req,res) {
+const generateNewShortURL = async (req, res) => {
         
 }
